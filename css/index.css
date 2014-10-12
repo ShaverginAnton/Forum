@@ -1,0 +1,100 @@
+body {
+  background-color: rgb(149, 149, 149);
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.embed-wrapper {
+  float: left;
+  width: 95.1219512195%;
+  height: 854px;
+  margin: 19px 0 0 2.43744%;
+  overflow: hidden;
+}
+
+.entername {
+  display: block;
+  float: left;
+  width: 4.4368600682%;
+  height: 22px;
+  margin: 18px 0 0 0.67993%;
+  border-radius: 3px;
+  background-color: rgb(149, 149, 149);
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.mainwind {
+  position: relative;
+  float: left;
+  z-index: 3;
+  width: 82%;
+  height: 900px;
+  margin: 15px 0 0 1.2487%;
+  border-radius: 15px;
+  background-color: rgb(108, 108, 108);
+}
+
+.name {
+  display: block;
+  float: left;
+  width: 12.0307167235%;
+  height: 22px;
+  margin: 18px 0 0 81.91126%;
+  padding: 0 10px;
+  background-color: rgb(242, 242, 242);
+  font-size: 0.813em;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(0, 0, 0);
+}
+
+.tems {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 9;
+  width: 14.4166666666%;
+  height: 900px;
+  margin: 15px 0 0 1.16667%;
+  border-radius: 15px;
+  background-color: rgb(108, 108, 108);
+}
+
+.topic .topic {
+  width: 57.2525597269%;
+  min-height: 69px;
+  margin: 40px auto 0;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0);
+  font: 2.5em/1.38 Vollkorn;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._button {
+  display: block;
+  float: left;
+  width: 72.2543352601%;
+  height: 37px;
+  margin: 26px 0 0 13.8638%;
+  border-radius: 3px;
+  background-color: rgb(222, 222, 222);
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.topic-1 {
+  float: left;
+  width: 97.6666666666%;
+  height: 157px;
+  margin: 16px 0 0 1.16667%;
+  border-radius: 15px;
+  background-color: rgba(0, 0, 0, 0.51);
+}
