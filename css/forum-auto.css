@@ -1,0 +1,227 @@
+body {
+  background-color: rgb(149, 149, 149);
+  font: 700 1.25em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.audi {
+  display: block;
+  float: left;
+  width: 72.2543352601%;
+  height: 37px;
+  margin: 26px 0 0 13.80454%;
+  padding: 5px;
+  border-radius: 3px;
+  background-color: rgb(149, 149, 149);
+  font-size: 0.8em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.51);
+}
+
+.embed-wrapper {
+  position: absolute;
+  top: 20px;
+  left: 2.1384385665%;
+  z-index: 14;
+  width: 16.9795221843%;
+  height: 70px;
+  overflow: hidden;
+}
+
+.iframe-wrapper {
+  position: relative;
+  float: left;
+  width: 30.235042735%;
+  height: 254px;
+  margin-top: 23px;
+  overflow: hidden;
+}
+
+.mainwind {
+  position: relative;
+  float: left;
+  z-index: 3;
+  width: 78%;
+  height: 918px;
+  margin: 23px 0 0 1.96224%;
+  border-radius: 15px;
+  background-color: rgb(108, 108, 108);
+}
+
+.mainwind:active,
+.mainwind:hover {
+  padding-top: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+}
+
+.map-wrapper {
+  position: relative;
+  float: left;
+  width: 30.235042735%;
+  height: 254px;
+  margin-top: 20px;
+  overflow: hidden;
+}
+
+.tems {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 9;
+  width: 17.6666666666%;
+  height: 918px;
+  margin: 23px 0 0 1.19922%;
+  border-radius: 15px;
+  background-color: rgb(108, 108, 108);
+}
+
+.text_au {
+  position: relative;
+  float: left;
+  z-index: 2;
+  width: 30.235042735%;
+  min-height: 21px;
+  margin: 16px 0 0 1.4990699999%;
+  font-size: 1em;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text_v {
+  position: relative;
+  float: left;
+  z-index: 0;
+  width: 30.235042735%;
+  min-height: 21px;
+  margin: 16px 0 0 3.08661%;
+  font-size: 1em;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text_vw {
+  position: relative;
+  float: left;
+  z-index: 1;
+  width: 30.235042735%;
+  min-height: 21px;
+  margin: 16px 0 0 3.08661%;
+  font-size: 1em;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.topic {
+  position: relative;
+  float: left;
+  width: 97.6666666666%;
+  height: 157px;
+  margin: 16px 0 0 1.16146%;
+  border-radius: 15px;
+  background-color: rgba(0, 0, 0, 0.51);
+}
+
+.video-wrapper {
+  position: relative;
+  float: left;
+  width: 30.235042735%;
+  height: 296px;
+  margin-top: 4px;
+  overflow: hidden;
+}
+
+.volkswagen,
+.volvo {
+  display: block;
+  float: left;
+  clear: both;
+  width: 72.2543352601%;
+  height: 37px;
+  margin: 14px 0 0 14.07724%;
+  padding: 5px;
+  border-radius: 3px;
+  background-color: rgb(149, 149, 149);
+  font-size: 0.8em;
+  font-weight: 400;
+  line-height: 1.38;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.51);
+}
+
+._button {
+  display: block;
+  float: left;
+  width: 21.3310580204%;
+  height: 79px;
+  margin: 38px 0 0 39.34514%;
+  border-radius: 3px;
+  background-color: rgba(222, 222, 222, 0);
+  font-size: 2.5em;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.iframe-wrapper-1 {
+  clear: both;
+  z-index: 5;
+  margin-left: 1.4990699999%;
+}
+
+.iframe-wrapper-2 {
+  z-index: 4;
+  margin-left: 3.08661%;
+}
+
+.iframe-wrapper-3 {
+  z-index: 3;
+  margin-left: 3.08661%;
+}
+
+.map-wrapper-1 {
+  clear: both;
+  z-index: 10;
+  margin-left: 1.4990699999%;
+}
+
+.map-wrapper-2 {
+  z-index: 9;
+  margin-left: 3.09328%;
+}
+
+.map-wrapper-3 {
+  z-index: 11;
+  margin-left: 3.10163%;
+}
+
+.video-wrapper-1 {
+  clear: both;
+  z-index: 6;
+  margin-left: 1.4990699999%;
+}
+
+.video-wrapper-2 {
+  z-index: 8;
+  margin-left: 3.10163%;
+}
+
+.video-wrapper-3 {
+  z-index: 7;
+  margin-left: 3.08827%;
+}
+
+.text_au span,
+.text_v span,
+.text_vw span {
+  font-style: inherit;
+  font-weight: inherit;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.51);
+}
